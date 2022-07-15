@@ -15,7 +15,7 @@ https://docs.google.com/document/d/1iqu82SKCKdkdxyTTQN8v6Y7Myb7oJTemeNXE7ZgPU9A/
 
 ### First
 
-Clone repo: `composer create-project --prefer-dist ptt/shortener ptt_shortener`
+Clone repo: `composer create-project --prefer-dist aleks-chigintsev/ptt-shortener ptt_shortener`
 
 ### Second
 
