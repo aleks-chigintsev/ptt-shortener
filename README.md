@@ -28,3 +28,6 @@ After that, configure your web server for the file
 # Configure
 
 After init project config file
+
+# Demo
+[![Demo interface](demos/screencast1.gif)](demos/screencast1.gif)
